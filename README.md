@@ -86,6 +86,3 @@ void loop() {
 - Simple circuit design  
 
 ---
-
-## 👩‍💻 Authors
-Samiksha Chavan & Team
